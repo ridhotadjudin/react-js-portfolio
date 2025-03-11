@@ -1,0 +1,28 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Back-End",
+            "description": "Abang jago java. Abang jago java. Abang jago java. Abang jago java. Abang jago java."
+        },
+        {
+            "id": "2",
+            "src": "./img/product-chain-2.png",
+            "title": "Front-End",
+            "description": "Abang jago react. Abang jago react. Abang jago react. Abang jago react. Abang jago react."
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-1.png",
+            "title": "Testing",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "id": "4",
+            "src": "./img/tag-1.png",
+            "title": "Bussiness Flow",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    ]
+}
