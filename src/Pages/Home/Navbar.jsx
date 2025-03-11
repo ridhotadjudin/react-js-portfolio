@@ -1,4 +1,4 @@
-import logoImgPath from '../../img/logo.png';
+import logoImgPath from './img/logo.png';
 import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
 

@@ -1,8 +1,10 @@
+import aboutImgPath from './img/about-me.jpg';
+
 export default function AboutMe() {
     return (
         <section className="about--section" id="aboutMe">
             <div className="about--section--img">
-                <img src="./img/about-me.jpg" alt="About Me"></img>
+                <img src={aboutImgPath} alt="About Me"></img>
             </div>
             <div className="hero--section--content--box about--section--box">
         <div className="hero--section--content">

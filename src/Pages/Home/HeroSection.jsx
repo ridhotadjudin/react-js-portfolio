@@ -1,4 +1,4 @@
-import heroImgPath from '../../img/hero_img.png';
+import heroImgPath from './img/hero_img.png';
 
 export default function HeroSection() {
     return (
