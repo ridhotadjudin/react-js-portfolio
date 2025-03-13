@@ -1,3 +1,4 @@
+import React from 'react';
 import heroImgPath from './img/hero_img.png';
 
 export default function HeroSection() {

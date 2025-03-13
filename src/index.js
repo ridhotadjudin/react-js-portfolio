@@ -9,3 +9,14 @@ root.render(
   </React.StrictMode>
 );
 
+// import Home from './Pages/Home/Homescreen'; // Adjust the path as needed
+
+// function App() {
+//     return (
+//         <div>
+//             <Home />
+//         </div>
+//     );
+// }
+
+// export default App;
