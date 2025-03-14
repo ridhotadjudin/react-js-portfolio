@@ -123,3 +123,5 @@ function Navbar() {
 }
 
 export default Navbar;
+
+import logoImgPath2 from './img/logo.png'; 
