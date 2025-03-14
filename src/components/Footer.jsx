@@ -34,7 +34,7 @@ function Footer() {
                 to="MySkills"
                 className="text-md"
               >
-                My Skills
+                Skills
               </Link>
             </li>
             <li>
