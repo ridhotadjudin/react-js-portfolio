@@ -10,7 +10,7 @@ export default function HeroSection() {
                     <h1 className="hero--section--title">
                         <span className="hero--section-title--color">Full Stack</span>{" "}
                         <br />
-                        QA Engineer
+                        Ngaduk Pasir
                     </h1>
                     <p className="hero--section-description">
                         An Quality Assurance Engineer with a background in the information technology industry. 
