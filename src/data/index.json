@@ -28,24 +28,50 @@
     "portfolio": [
         {
             "id": "1",
-            "src": "/img/product-chain-2.png",
+            "src": "/img/placeholder-image.png",
             "title": "Eduwork",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "link": "View in Github"
         },
         {
             "id": "2",
-            "src": "/img/product-chain-2.png",
+            "src": "/img/placeholder-image-1.png",
             "title": "Testerwork",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "link": "View in Github"
         },
         {
             "id": "3",
-            "src": "/img/product-chain-2.png",
+            "src": "/img/placeholder-image-2.png",
             "title": "Testingbird",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "link": "View in Github"
+        }
+    ],
+    "testimonial": [
+        {
+            "id": "1",
+            "count": "5",
+            "src": "/img/avatar-image.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "author_name": "Dian Russel",
+            "author_designation": "Nexsoft"
+        },
+        {
+            "id": "2",
+            "count": "5",
+            "src": "/img/avatar-image-1.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "author_name": "Gunawan",
+            "author_designation": "Nusa"
+        },
+        {
+            "id": "3",
+            "count": "5",
+            "src": "/img/avatar-image-2.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "author_name": "DLukasz",
+            "author_designation": "Global"
         }
     ]
 }

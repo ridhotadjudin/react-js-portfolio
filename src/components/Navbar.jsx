@@ -70,10 +70,10 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
-              to="MyPortfolio"
+              to="MySkills"
               className="navbar--content"
             >
-              Portfolio
+              My Skills
             </Link>
           </li>
           <li>
@@ -98,10 +98,38 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
-              to="testimonial"
+              to="MyPortfolio"
+              className="navbar--content"
+            >
+              Portfolio
+            </Link>
+          </li>
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
+              to="Testimonial"
               className="navbar--content"
             >
               Testimonials
+            </Link>
+          </li>
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
+              to="ContactMe"
+              className="navbar--content"
+            >
+              Contact
             </Link>
           </li>
         </ul>
@@ -123,5 +151,3 @@ function Navbar() {
 }
 
 export default Navbar;
-
-import logoImgPath2 from './img/logo.png'; 

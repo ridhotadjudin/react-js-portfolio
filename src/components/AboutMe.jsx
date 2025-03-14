@@ -2,7 +2,7 @@ import aboutImgPath from './img/about-me.jpg';
 
 export default function AboutMe() {
     return (
-        <section className="about--section" id="aboutMe">
+        <section className="about--section" id="AboutMe">
             <div className="about--section--img">
                 <img src={aboutImgPath} alt="About Me"></img>
             </div>

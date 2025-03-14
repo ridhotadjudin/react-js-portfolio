@@ -10,12 +10,14 @@ export default function HeroSection() {
                     <h1 className="hero--section--title">
                         <span className="hero--section-title--color">Full Stack</span>{" "}
                         <br />
-                        Ngaduk Pasir
+                        Engineer
                     </h1>
                     <p className="hero--section-description">
-                        An Quality Assurance Engineer with a background in the information technology industry. 
+                        I am a Full Stack Engineer with expertise in end-to-end development, building scalable web applications with seamless user experiences and robust backend architectures.
                         <br />
-                        Proven leader, creative thinker and innovation driver. Graduated from the National Institute of Technology, Bandung Indonesia.
+                        I specialize in CI/CD implementation, streamlining software delivery with automated build, test, and deployment pipelines using tools like GitHub Actions and Jenkins.
+                        <br />
+                        With strong skills in test automation using Selenium, Playwright, and Cypress, I ensure high software quality by integrating automated testing into CI/CD workflows, reducing bugs and improving reliability.
                     </p>
                 </div>
                 <button className="btn btn-primary">Get In Touch</button>
