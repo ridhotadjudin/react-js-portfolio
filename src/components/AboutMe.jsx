@@ -11,15 +11,13 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+            I am a Full Stack Engineer with expertise in end-to-end development, building scalable web applications with seamless user experiences and robust backend architectures.
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+            I specialize in CI/CD implementation, streamlining software delivery with automated build, test, and deployment pipelines using tools like GitHub Actions and Jenkins.
+          </p>
+          <p className="hero--section-description">
+            With strong skills in test automation using Selenium, Playwright, and Cypress, I ensure high software quality by integrating automated testing into CI/CD workflows, reducing bugs and improving reliability.
           </p>
         </div>
       </div>
