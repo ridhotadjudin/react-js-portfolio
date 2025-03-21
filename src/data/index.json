@@ -72,6 +72,14 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "author_name": "DLukasz",
             "author_designation": "Global"
+        },
+        {
+            "id": "4",
+            "count": "4",
+            "src": "/img/avatar-image-2.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "author_name": "DLukasz",
+            "author_designation": "Global"
         }
     ]
 }
