@@ -2,48 +2,72 @@
     "skills": [
         {
             "id": "1",
-            "src": "/img/product-chain-1.png",
-            "title": "Back-End",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "src": "/img/product-chain-2.png",
+            "title": "Test Automation",
+            "description": "Expertise in writing and maintaining automated test scripts using Selenium, Playwright, Cypress, and Katalon to ensure efficient regression testing."
         },
         {
             "id": "2",
             "src": "/img/product-chain-2.png",
-            "title": "Front-End",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "title": "Manual Testing & Test Case Design",
+            "description": "Proficient in writing detailed test cases, executing manual tests, and identifying critical defects in software."
         },
         {
             "id": "3",
-            "src": "/img/feather-pen-1.png",
-            "title": "DevOps",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "src": "/img/product-chain-2.png",
+            "title": "CI/CD & Deployment",
+            "description": "Hands-on experience in integrating automated tests into CI/CD pipelines, ensuring smooth deployments and early bug detection using Jenkins, GitHub Actions, and Azure DevOps."
         },
         {
             "id": "4",
-            "src": "/img/tag-1.png",
-            "title": "Bussiness Flow",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "src": "/img/product-chain-2.png",
+            "title": "Backend API Testing",
+            "description": "Skilled in testing APIs using Postman and RestAssured to validate request/response integrity and performance."
+        },
+        {
+            "id": "5",
+            "src": "/img/product-chain-2.png",
+            "title": "SQL & Data Validation",
+            "description": "Strong knowledge of SQL queries to validate backend data integrity and test database-driven applications."
+        },
+        {
+            "id": "6'",
+            "src": "/img/product-chain-2.png",
+            "title": "Performance Testing",
+            "description": "Experience in load and stress testing applications using JMeter and k6 to assess system reliability under different workloads."
+        },
+        {
+            "id": "7",
+            "src": "/img/product-chain-2.png",
+            "title": "Defect Tracking",
+            "description": "Familiar with test management tools like JIRA and TestRail for tracking bugs, test coverage, and managing test execution."
+        },
+        {
+            "id": "8'",
+            "src": "/img/product-chain-2.png",
+            "title": "Mobile Testing",
+            "description": "Experience in mobile application testing across Android and iOS platforms using Appium, Espresso, and XCUITest."
         }
     ],
     "portfolio": [
         {
             "id": "1",
             "src": "/img/placeholder-image.png",
-            "title": "Eduwork",
+            "title": "Portfolio 1",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "link": "View in Github"
         },
         {
             "id": "2",
             "src": "/img/placeholder-image-1.png",
-            "title": "Testerwork",
+            "title": "Portfolio 2",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "link": "View in Github"
         },
         {
             "id": "3",
             "src": "/img/placeholder-image-2.png",
-            "title": "Testingbird",
+            "title": "Portfolio 3",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "link": "View in Github"
         }
@@ -54,32 +78,24 @@
             "count": "5",
             "src": "/img/avatar-image.png",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "author_name": "Dian Russel",
-            "author_designation": "Nexsoft"
+            "author_name": "Person Name 1",
+            "author_designation": "Company 1"
         },
         {
             "id": "2",
             "count": "5",
             "src": "/img/avatar-image-1.png",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "author_name": "Gunawan",
-            "author_designation": "Nusa"
+            "author_name": "Person Name 2",
+            "author_designation": "Company 2"
         },
         {
             "id": "3",
             "count": "5",
             "src": "/img/avatar-image-2.png",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "author_name": "DLukasz",
-            "author_designation": "Global"
-        },
-        {
-            "id": "4",
-            "count": "4",
-            "src": "/img/avatar-image-2.png",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "author_name": "DLukasz",
-            "author_designation": "Global"
+            "author_name": "Person Name 3",
+            "author_designation": "Company 3"
         }
     ]
 }

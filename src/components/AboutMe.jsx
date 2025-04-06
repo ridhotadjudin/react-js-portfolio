@@ -1,4 +1,4 @@
-import aboutImgPath from './img/about-me.jpg';
+import aboutImgPath from './img/hero_img.png';
 
 export default function AboutMe() {
     return (
